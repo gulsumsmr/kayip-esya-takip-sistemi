@@ -1,0 +1,301 @@
+[
+  {
+    "ContainingType": "KayipEsyaTakip.API.Controllers.AuthController",
+    "Method": "Login",
+    "RelativePath": "api/Auth/login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "loginDto",
+        "Type": "KayipEsyaTakip.API.DTOs.LoginDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "KayipEsyaTakip.API.DTOs.UserDto",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "KayipEsyaTakip.API.Controllers.AuthController",
+    "Method": "Register",
+    "RelativePath": "api/Auth/register",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "registerDto",
+        "Type": "KayipEsyaTakip.API.DTOs.RegisterDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "KayipEsyaTakip.API.DTOs.UserDto",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "KayipEsyaTakip.API.Controllers.KayipEsyaController",
+    "Method": "GetKayipEsyalar",
+    "RelativePath": "api/KayipEsya",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[KayipEsyaTakip.API.Models.KayipEsya, KayipEsyaTakip.API, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "KayipEsyaTakip.API.Controllers.KayipEsyaController",
+    "Method": "PostKayipEsya",
+    "RelativePath": "api/KayipEsya",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "EsyaId",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "Aciklama",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "BulanKisi",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "BulunduguTarih",
+        "Type": "System.DateTime",
+        "IsRequired": false
+      },
+      {
+        "Name": "BulunduguYer",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "TeslimAlinanBirim",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "TeslimAlanPersonel",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Durum",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "FotografUrl",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Teslimatlar",
+        "Type": "System.Collections.Generic.ICollection\u00601[[KayipEsyaTakip.API.Models.Teslimat, KayipEsyaTakip.API, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "IsRequired": false
+      },
+      {
+        "Name": "fotograf",
+        "Type": "Microsoft.AspNetCore.Http.IFormFile",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "KayipEsyaTakip.API.Models.KayipEsya",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "KayipEsyaTakip.API.Controllers.KayipEsyaController",
+    "Method": "GetKayipEsya",
+    "RelativePath": "api/KayipEsya/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "KayipEsyaTakip.API.Models.KayipEsya",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "KayipEsyaTakip.API.Controllers.KayipEsyaController",
+    "Method": "PutKayipEsya",
+    "RelativePath": "api/KayipEsya/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "kayipEsya",
+        "Type": "KayipEsyaTakip.API.Models.KayipEsya",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "KayipEsyaTakip.API.Controllers.KayipEsyaController",
+    "Method": "DeleteKayipEsya",
+    "RelativePath": "api/KayipEsya/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "KayipEsyaTakip.API.Controllers.TeslimatController",
+    "Method": "GetTeslimatlar",
+    "RelativePath": "api/Teslimat",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[KayipEsyaTakip.API.Models.Teslimat, KayipEsyaTakip.API, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "KayipEsyaTakip.API.Controllers.TeslimatController",
+    "Method": "PostTeslimat",
+    "RelativePath": "api/Teslimat",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "teslimat",
+        "Type": "KayipEsyaTakip.API.Models.Teslimat",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "KayipEsyaTakip.API.Models.Teslimat",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "KayipEsyaTakip.API.Controllers.TeslimatController",
+    "Method": "GetTeslimat",
+    "RelativePath": "api/Teslimat/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "KayipEsyaTakip.API.Models.Teslimat",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "KayipEsyaTakip.API.Controllers.TeslimatController",
+    "Method": "DeleteTeslimat",
+    "RelativePath": "api/Teslimat/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
