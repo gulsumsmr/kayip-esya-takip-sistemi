@@ -49,6 +49,7 @@ Proje temel olarak iki ana tablo üzerinden çalışmaktadır:
 <img width="1919" height="895" alt="Ekran görüntüsü 2026-01-14 223314" src="https://github.com/user-attachments/assets/b6c7614b-1f37-4456-9093-0f9d2f666cd0" />
 <img width="1917" height="887" alt="Ekran görüntüsü 2026-01-14 225123" src="https://github.com/user-attachments/assets/98aaa112-bde6-4c0e-b351-1c04ccd5451e" />
 <img width="1917" height="903" alt="Ekran görüntüsü 2026-01-14 225212" src="https://github.com/user-attachments/assets/71fc2573-a7ec-4a71-b05a-ea693e27010b" />
+
 ---
 
 Bu proje **Sultangazi Belediyesi** staj çalışması olarak geliştirilmiştir.
