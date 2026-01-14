@@ -1,0 +1,23 @@
+# --- GENEL ---
+.DS_Store
+
+# --- FRONTEND (React) ---
+node_modules/
+build/
+dist/
+.env
+.env.local
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# --- BACKEND (.NET) ---
+bin/
+obj/
+.vs/
+*.user
+*.suo
+
+# --- ÖNEMLİ: Şifreli Dosyalar ---
+appsettings.json
+appsettings.Development.json
