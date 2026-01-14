@@ -1,0 +1,10 @@
+/* src/styles/Login.css */
+
+.login-left-side {
+  /* Arka plana belediye binası veya temsili şehir görseli */
+  background-image: url('../assets/sultanagazilogo.png');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  background-color: rgba(39, 39, 226, 0.74);
+}

@@ -1,0 +1,62 @@
+/* src/styles/Intro.css */
+
+.intro-container {
+  width: 100vw;
+  height: 100vh;
+  background: #0944b1ff;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.intro-content {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+
+  animation: zoomFade 1.5s ease forwards;
+}
+
+.intro-logo {
+  width: 130px;
+  margin-bottom: 24px;
+}
+
+.intro-title {
+  color: #ffffff;
+  font-size: 28px !important;
+  font-weight: 700 !important;
+  margin-bottom: 8px !important;
+}
+
+.intro-subtitle {
+  color: #e0e0e0;
+  font-size: 18px !important;
+  margin-bottom: 40px !important;
+}
+
+.intro-loading {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 10px;
+}
+
+.intro-loading-text {
+  color: #ffffff;
+  font-size: 13px !important;
+  opacity: 0.85;
+}
+
+/* 🔥 ANİMASYON */
+@keyframes zoomFade {
+  from {
+    opacity: 0;
+    transform: scale(0.85);
+  }
+  to {
+    opacity: 1;
+    transform: scale(1);
+  }
+}
