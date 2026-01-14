@@ -3,16 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\glsms\\OneDrive\\Masa\u00FCst\u00FC\\BelediyeKayipEsyaProjesi\\KayipEsyaTakip.API\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{B5A31696-1DAC-4CEF-BE18-3F6D9820EF29}|KayipEsyaTakip.API\\KayipEsyaTakip.API.csproj|c:\\users\\glsms\\onedrive\\masa\u00FCst\u00FC\\belediyekayipesyaprojesi\\kayipesyatakip.api\\kayipesyatakip.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B5A31696-1DAC-4CEF-BE18-3F6D9820EF29}|KayipEsyaTakip.API\\KayipEsyaTakip.API.csproj|solutionrelative:kayipesyatakip.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5A31696-1DAC-4CEF-BE18-3F6D9820EF29}|KayipEsyaTakip.API\\KayipEsyaTakip.API.csproj|c:\\users\\glsms\\onedrive\\masa\u00FCst\u00FC\\belediyekayipesyaprojesi\\kayipesyatakip.api\\kayipesyatakip.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5A31696-1DAC-4CEF-BE18-3F6D9820EF29}|KayipEsyaTakip.API\\KayipEsyaTakip.API.csproj|solutionrelative:kayipesyatakip.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{B5A31696-1DAC-4CEF-BE18-3F6D9820EF29}|KayipEsyaTakip.API\\KayipEsyaTakip.API.csproj|c:\\users\\glsms\\onedrive\\masa\u00FCst\u00FC\\belediyekayipesyaprojesi\\kayipesyatakip.api\\kayipesyatakip.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B5A31696-1DAC-4CEF-BE18-3F6D9820EF29}|KayipEsyaTakip.API\\KayipEsyaTakip.API.csproj|solutionrelative:kayipesyatakip.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B5A31696-1DAC-4CEF-BE18-3F6D9820EF29}|KayipEsyaTakip.API\\KayipEsyaTakip.API.csproj|c:\\users\\glsms\\onedrive\\masa\u00FCst\u00FC\\belediyekayipesyaprojesi\\kayipesyatakip.api\\kayipesyatakip.api\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B5A31696-1DAC-4CEF-BE18-3F6D9820EF29}|KayipEsyaTakip.API\\KayipEsyaTakip.API.csproj|solutionrelative:kayipesyatakip.api\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B5A31696-1DAC-4CEF-BE18-3F6D9820EF29}|KayipEsyaTakip.API\\KayipEsyaTakip.API.csproj|c:\\users\\glsms\\onedrive\\masa\u00FCst\u00FC\\belediyekayipesyaprojesi\\kayipesyatakip.api\\kayipesyatakip.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{B5A31696-1DAC-4CEF-BE18-3F6D9820EF29}|KayipEsyaTakip.API\\KayipEsyaTakip.API.csproj|solutionrelative:kayipesyatakip.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B5A31696-1DAC-4CEF-BE18-3F6D9820EF29}|KayipEsyaTakip.API\\KayipEsyaTakip.API.csproj|c:\\users\\glsms\\onedrive\\masa\u00FCst\u00FC\\belediyekayipesyaprojesi\\kayipesyatakip.api\\kayipesyatakip.api\\kayipesyatakip.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
@@ -23,20 +27,12 @@
       "RelativeMoniker": "D:0:0:{B5A31696-1DAC-4CEF-BE18-3F6D9820EF29}|KayipEsyaTakip.API\\KayipEsyaTakip.API.csproj|solutionrelative:kayipesyatakip.api\\controllers\\kayipesyacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\glsms\\OneDrive\\Masa\u00FCst\u00FC\\BelediyeKayipEsyaProjesi\\KayipEsyaTakip.API\\KayipEsyaTakip.API\\Migrations\\20251107071341_Add_FotografUrl_To_KayipEsya.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:KayipEsyaTakip.API\\Migrations\\20251107071341_Add_FotografUrl_To_KayipEsya.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{B5A31696-1DAC-4CEF-BE18-3F6D9820EF29}|KayipEsyaTakip.API\\KayipEsyaTakip.API.csproj|c:\\users\\glsms\\onedrive\\masa\u00FCst\u00FC\\belediyekayipesyaprojesi\\kayipesyatakip.api\\kayipesyatakip.api\\models\\kayipesya.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B5A31696-1DAC-4CEF-BE18-3F6D9820EF29}|KayipEsyaTakip.API\\KayipEsyaTakip.API.csproj|solutionrelative:kayipesyatakip.api\\models\\kayipesya.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\glsms\\OneDrive\\Masa\u00FCst\u00FC\\BelediyeKayipEsyaProjesi\\KayipEsyaTakip.API\\KayipEsyaTakip.API\\Migrations\\20251031091020_AddTeslimAlanVeEdenPersonel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:KayipEsyaTakip.API\\Migrations\\20251031091020_AddTeslimAlanVeEdenPersonel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B5A31696-1DAC-4CEF-BE18-3F6D9820EF29}|KayipEsyaTakip.API\\KayipEsyaTakip.API.csproj|c:\\users\\glsms\\onedrive\\masa\u00FCst\u00FC\\belediyekayipesyaprojesi\\kayipesyatakip.api\\kayipesyatakip.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B5A31696-1DAC-4CEF-BE18-3F6D9820EF29}|KayipEsyaTakip.API\\KayipEsyaTakip.API.csproj|solutionrelative:kayipesyatakip.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B5A31696-1DAC-4CEF-BE18-3F6D9820EF29}|KayipEsyaTakip.API\\KayipEsyaTakip.API.csproj|c:\\users\\glsms\\onedrive\\masa\u00FCst\u00FC\\belediyekayipesyaprojesi\\kayipesyatakip.api\\kayipesyatakip.api\\dto\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -69,6 +65,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{B5A31696-1DAC-4CEF-BE18-3F6D9820EF29}|KayipEsyaTakip.API\\KayipEsyaTakip.API.csproj|c:\\users\\glsms\\onedrive\\masa\u00FCst\u00FC\\belediyekayipesyaprojesi\\kayipesyatakip.api\\kayipesyatakip.api\\migrations\\20251031115045_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B5A31696-1DAC-4CEF-BE18-3F6D9820EF29}|KayipEsyaTakip.API\\KayipEsyaTakip.API.csproj|solutionrelative:kayipesyatakip.api\\migrations\\20251031115045_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5A31696-1DAC-4CEF-BE18-3F6D9820EF29}|KayipEsyaTakip.API\\KayipEsyaTakip.API.csproj|c:\\users\\glsms\\onedrive\\masa\u00FCst\u00FC\\belediyekayipesyaprojesi\\kayipesyatakip.api\\kayipesyatakip.api\\migrations\\20251107071341_add_fotografurl_to_kayipesya.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5A31696-1DAC-4CEF-BE18-3F6D9820EF29}|KayipEsyaTakip.API\\KayipEsyaTakip.API.csproj|solutionrelative:kayipesyatakip.api\\migrations\\20251107071341_add_fotografurl_to_kayipesya.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -90,19 +90,6 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "20251107071341_Add_FotografUrl_To_KayipEsya.cs",
-              "DocumentMoniker": "C:\\Users\\glsms\\OneDrive\\Masa\u00FCst\u00FC\\BelediyeKayipEsyaProjesi\\KayipEsyaTakip.API\\KayipEsyaTakip.API\\Migrations\\20251107071341_Add_FotografUrl_To_KayipEsya.cs",
-              "RelativeDocumentMoniker": "KayipEsyaTakip.API\\Migrations\\20251107071341_Add_FotografUrl_To_KayipEsya.cs",
-              "ToolTip": "C:\\Users\\glsms\\OneDrive\\Masa\u00FCst\u00FC\\BelediyeKayipEsyaProjesi\\KayipEsyaTakip.API\\KayipEsyaTakip.API\\Migrations\\20251107071341_Add_FotografUrl_To_KayipEsya.cs",
-              "RelativeToolTip": "KayipEsyaTakip.API\\Migrations\\20251107071341_Add_FotografUrl_To_KayipEsya.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-07T07:13:41.715Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 6,
               "Title": "KayipEsya.cs",
               "DocumentMoniker": "C:\\Users\\glsms\\OneDrive\\Masa\u00FCst\u00FC\\BelediyeKayipEsyaProjesi\\KayipEsyaTakip.API\\KayipEsyaTakip.API\\Models\\KayipEsya.cs",
@@ -111,12 +98,11 @@
               "RelativeToolTip": "KayipEsyaTakip.API\\Models\\KayipEsya.cs",
               "ViewState": "AgIAABQAAAAAAAAAAAAwwBYAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-27T06:57:05.395Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-27T06:57:05.395Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "C:\\Users\\glsms\\OneDrive\\Masa\u00FCst\u00FC\\BelediyeKayipEsyaProjesi\\KayipEsyaTakip.API\\KayipEsyaTakip.API\\Data\\AppDbContext.cs",
               "RelativeDocumentMoniker": "KayipEsyaTakip.API\\Data\\AppDbContext.cs",
@@ -124,12 +110,11 @@
               "RelativeToolTip": "KayipEsyaTakip.API\\Data\\AppDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-27T06:52:24.989Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-27T06:52:24.989Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "KayipEsyaTakip.API.csproj",
               "DocumentMoniker": "C:\\Users\\glsms\\OneDrive\\Masa\u00FCst\u00FC\\BelediyeKayipEsyaProjesi\\KayipEsyaTakip.API\\KayipEsyaTakip.API\\KayipEsyaTakip.API.csproj",
               "RelativeDocumentMoniker": "KayipEsyaTakip.API\\KayipEsyaTakip.API.csproj",
@@ -137,25 +122,23 @@
               "RelativeToolTip": "KayipEsyaTakip.API\\KayipEsyaTakip.API.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-10-27T06:51:10.26Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-27T06:51:10.26Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\glsms\\OneDrive\\Masa\u00FCst\u00FC\\BelediyeKayipEsyaProjesi\\KayipEsyaTakip.API\\KayipEsyaTakip.API\\Program.cs",
               "RelativeDocumentMoniker": "KayipEsyaTakip.API\\Program.cs",
               "ToolTip": "C:\\Users\\glsms\\OneDrive\\Masa\u00FCst\u00FC\\BelediyeKayipEsyaProjesi\\KayipEsyaTakip.API\\KayipEsyaTakip.API\\Program.cs",
               "RelativeToolTip": "KayipEsyaTakip.API\\Program.cs",
-              "ViewState": "AgIAAEMAAAAAAAAAAAAgwF8AAAAeAAAAAAAAAA==",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAAAGUAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-27T07:03:30.504Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-27T07:03:30.504Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\glsms\\OneDrive\\Masa\u00FCst\u00FC\\BelediyeKayipEsyaProjesi\\KayipEsyaTakip.API\\KayipEsyaTakip.API\\appsettings.json",
               "RelativeDocumentMoniker": "KayipEsyaTakip.API\\appsettings.json",
@@ -168,7 +151,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 9,
               "Title": "RegisterDto.cs",
               "DocumentMoniker": "C:\\Users\\glsms\\OneDrive\\Masa\u00FCst\u00FC\\BelediyeKayipEsyaProjesi\\KayipEsyaTakip.API\\KayipEsyaTakip.API\\DTO\\RegisterDto.cs",
               "RelativeDocumentMoniker": "KayipEsyaTakip.API\\DTO\\RegisterDto.cs",
@@ -180,7 +163,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 11,
               "Title": "UserDto.cs",
               "DocumentMoniker": "C:\\Users\\glsms\\OneDrive\\Masa\u00FCst\u00FC\\BelediyeKayipEsyaProjesi\\KayipEsyaTakip.API\\KayipEsyaTakip.API\\DTO\\UserDto.cs",
               "RelativeDocumentMoniker": "KayipEsyaTakip.API\\DTO\\UserDto.cs",
@@ -192,7 +175,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "KayipEsyaController.cs",
               "DocumentMoniker": "C:\\Users\\glsms\\OneDrive\\Masa\u00FCst\u00FC\\BelediyeKayipEsyaProjesi\\KayipEsyaTakip.API\\KayipEsyaTakip.API\\Controllers\\KayipEsyaController.cs",
               "RelativeDocumentMoniker": "KayipEsyaTakip.API\\Controllers\\KayipEsyaController.cs",
@@ -200,12 +183,35 @@
               "RelativeToolTip": "KayipEsyaTakip.API\\Controllers\\KayipEsyaController.cs",
               "ViewState": "AgIAAGUAAAAAAAAAAAAgwJ8AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-27T07:09:18.87Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-27T07:09:18.87Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 1,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\glsms\\OneDrive\\Masa\u00FCst\u00FC\\BelediyeKayipEsyaProjesi\\KayipEsyaTakip.API\\KayipEsyaTakip.API\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "KayipEsyaTakip.API\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\glsms\\OneDrive\\Masa\u00FCst\u00FC\\BelediyeKayipEsyaProjesi\\KayipEsyaTakip.API\\KayipEsyaTakip.API\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "KayipEsyaTakip.API\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAF0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T13:07:34.828Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "20251107071341_Add_FotografUrl_To_KayipEsya.cs",
+              "DocumentMoniker": "C:\\Users\\glsms\\OneDrive\\Masa\u00FCst\u00FC\\BelediyeKayipEsyaProjesi\\KayipEsyaTakip.API\\KayipEsyaTakip.API\\Migrations\\20251107071341_Add_FotografUrl_To_KayipEsya.cs",
+              "RelativeDocumentMoniker": "KayipEsyaTakip.API\\Migrations\\20251107071341_Add_FotografUrl_To_KayipEsya.cs",
+              "ToolTip": "C:\\Users\\glsms\\OneDrive\\Masa\u00FCst\u00FC\\BelediyeKayipEsyaProjesi\\KayipEsyaTakip.API\\KayipEsyaTakip.API\\Migrations\\20251107071341_Add_FotografUrl_To_KayipEsya.cs",
+              "RelativeToolTip": "KayipEsyaTakip.API\\Migrations\\20251107071341_Add_FotografUrl_To_KayipEsya.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T07:13:41.715Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
               "Title": "Teslimat.cs",
               "DocumentMoniker": "C:\\Users\\glsms\\OneDrive\\Masa\u00FCst\u00FC\\BelediyeKayipEsyaProjesi\\KayipEsyaTakip.API\\KayipEsyaTakip.API\\Models\\Teslimat.cs",
               "RelativeDocumentMoniker": "KayipEsyaTakip.API\\Models\\Teslimat.cs",
@@ -214,18 +220,6 @@
               "ViewState": "AgIAAAcAAAAAAAAAAAAiwBIAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-27T06:58:31.096Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "AuthController.cs",
-              "DocumentMoniker": "C:\\Users\\glsms\\OneDrive\\Masa\u00FCst\u00FC\\BelediyeKayipEsyaProjesi\\KayipEsyaTakip.API\\KayipEsyaTakip.API\\Controllers\\AuthController.cs",
-              "RelativeDocumentMoniker": "KayipEsyaTakip.API\\Controllers\\AuthController.cs",
-              "ToolTip": "C:\\Users\\glsms\\OneDrive\\Masa\u00FCst\u00FC\\BelediyeKayipEsyaProjesi\\KayipEsyaTakip.API\\KayipEsyaTakip.API\\Controllers\\AuthController.cs",
-              "RelativeToolTip": "KayipEsyaTakip.API\\Controllers\\AuthController.cs",
-              "ViewState": "AgIAAFAAAAAAAAAAAAAswF0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-04T13:07:34.828Z"
             },
             {
               "$type": "Document",
@@ -240,7 +234,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 8,
               "Title": "LoginDto.cs",
               "DocumentMoniker": "C:\\Users\\glsms\\OneDrive\\Masa\u00FCst\u00FC\\BelediyeKayipEsyaProjesi\\KayipEsyaTakip.API\\KayipEsyaTakip.API\\DTO\\LoginDto.cs",
               "RelativeDocumentMoniker": "KayipEsyaTakip.API\\DTO\\LoginDto.cs",
@@ -252,7 +246,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 10,
               "Title": "Kullanici.cs",
               "DocumentMoniker": "C:\\Users\\glsms\\OneDrive\\Masa\u00FCst\u00FC\\BelediyeKayipEsyaProjesi\\KayipEsyaTakip.API\\KayipEsyaTakip.API\\Models\\Kullanici.cs",
               "RelativeDocumentMoniker": "KayipEsyaTakip.API\\Models\\Kullanici.cs",
@@ -264,7 +258,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 12,
               "Title": "TeslimatController.cs",
               "DocumentMoniker": "C:\\Users\\glsms\\OneDrive\\Masa\u00FCst\u00FC\\BelediyeKayipEsyaProjesi\\KayipEsyaTakip.API\\KayipEsyaTakip.API\\Controllers\\TeslimatController.cs",
               "RelativeDocumentMoniker": "KayipEsyaTakip.API\\Controllers\\TeslimatController.cs",
@@ -276,7 +270,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 15,
               "Title": "20251031115045_InitialCreate.cs",
               "DocumentMoniker": "C:\\Users\\glsms\\OneDrive\\Masa\u00FCst\u00FC\\BelediyeKayipEsyaProjesi\\KayipEsyaTakip.API\\KayipEsyaTakip.API\\Migrations\\20251031115045_InitialCreate.cs",
               "RelativeDocumentMoniker": "KayipEsyaTakip.API\\Migrations\\20251031115045_InitialCreate.cs",
@@ -288,7 +282,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 14,
               "Title": "20251031130146_RemoveEsyaTuruAndKayitTarihi.cs",
               "DocumentMoniker": "C:\\Users\\glsms\\OneDrive\\Masa\u00FCst\u00FC\\BelediyeKayipEsyaProjesi\\KayipEsyaTakip.API\\KayipEsyaTakip.API\\Migrations\\20251031130146_RemoveEsyaTuruAndKayitTarihi.cs",
               "RelativeDocumentMoniker": "KayipEsyaTakip.API\\Migrations\\20251031130146_RemoveEsyaTuruAndKayitTarihi.cs",

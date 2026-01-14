@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("KayipEsyaTakip.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7154dbf8da9357f8e56c19c8cdbcdcdd082f25f3")]
 [assembly: System.Reflection.AssemblyProductAttribute("KayipEsyaTakip.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("KayipEsyaTakip.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
